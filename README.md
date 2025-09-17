@@ -1,7 +1,7 @@
 HR Leave System
 
-A simple HR Leave Management System built with **React**, **TailwindCSS**, and a **Node.js/Express backend**.  
-It helps small teams manage employee leave days, track annual quotas, and export data.
+An HR Leave Management System built with React, TailwindCSS, and a Node.js/Express backend.  
+It helps teams manage employee leave days, track annual quotas, and export data.
 
 ✨ Features
 - Add, edit, and delete employees
