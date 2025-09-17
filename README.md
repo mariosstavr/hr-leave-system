@@ -17,8 +17,8 @@ It helps small teams manage employee leave days, track annual quotas, and export
 
  🚀 Getting Started
 
- Prerequisites
-- Node.js (>= 18.x)
+ Requirements
+- Node.js >= 18.x
 - npm or yarn
 
  Clone & Install
@@ -26,3 +26,4 @@ It helps small teams manage employee leave days, track annual quotas, and export
 git clone https://github.com/mariosstavr/hr-leave-system.git
 cd hr-leave-system/server
 npm install
+
